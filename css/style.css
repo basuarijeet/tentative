@@ -702,7 +702,7 @@ textarea::placeholder {
 
 /* line 73, ../../Arafath/CL/December/236. Event-02/HTML/scss/theme-default.scss */
 ul {
-  margin: 0px;
+  margin: -40px;
   padding: 0px;
 }
 
